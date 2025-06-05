@@ -26,4 +26,4 @@
 
 ```bash
 sudo apt install python3-tk
-![kali-linux-2024 3-vmware-amd64-2025-06-05-22-31-44](https://github.com/user-attachments/assets/e2639e56-0f89-47ac-84ab-67a1fd3ff328)
+
